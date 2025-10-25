@@ -1,6 +1,3 @@
-# CSEL204-IMRAD
-Language Detection using Naives Bayes Classifiers
-
 # Naive Bayes Language Detector
 
 This project is a simple language detection tool using a Naive Bayes classifier trained on character n-grams. It uses the [Tatoeba Project](https://tatoeba.org/) dataset for training and testing, supporting dozens of languages.
